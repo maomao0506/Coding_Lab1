@@ -10,4 +10,3 @@ and u2 (cout, a, b);
 
 endmodule
 
-//
