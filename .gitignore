@@ -1,0 +1,16 @@
+# C++ 暫存與執行檔
+*.exe
+*.obj
+*.o
+*.out
+build/
+bin/
+
+# Verilog / VLSI 模擬工具暫存
+*.log
+*.jou
+*.vcd
+*.key
+*.history
+work/
+xsim.dir/
